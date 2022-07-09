@@ -26,15 +26,15 @@
 
 ------
 
-![laundrygo_1](C:\Users\user\Desktop\깃\bwadrigo\img\laundrygo_1.png)
+![laundrygo_1](img/laundrygo_1.png)
 
 
 
-![ELK](C:\Users\user\Desktop\깃\bwadrigo\img\ELK.png)
+![ELK](img/ELK.png)
 
 
 
-![slack_error](C:\Users\user\Desktop\깃\bwadrigo\img\slack_error.PNG)
+![slack_error](img/slack_error.PNG)
 
 
 
@@ -66,4 +66,4 @@
 
 **Architecture**
 
-![architecture](C:\Users\user\Desktop\깃\bwadrigo\img\architecture.png)
+![architecture](img/architecture.png)
